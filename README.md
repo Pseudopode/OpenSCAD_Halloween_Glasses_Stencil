@@ -1,3 +1,4 @@
+![](openscad_1.jpg)
 ![](header.jpg)
 
 # OpenSCAD Halloween Glasses Stencil
